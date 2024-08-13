@@ -10,3 +10,7 @@ Using Jupyter Notebook, Data- Preprocessing, model Building, model evaluation, m
    b) Content Based Recommendation
    c) Hybrid Approach (Collaborative+Content) Recommendation.
 3. Libraries Used : sklearn, seaborn, matplotlib, numpy, pandas etc..
+
+# Project Outcome : 
+
+Exploring a personalized recommendation, Improved user Experience, by enhancing customer engagement.
